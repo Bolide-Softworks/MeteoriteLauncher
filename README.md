@@ -2,9 +2,6 @@
 ![Downloads](https://img.shields.io/github/downloads/ZalithLauncher/ZalithLauncher2/total)
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors)](https://afdian.com/a/MovTery)
 
-[简体中文](README_ZH_CN.md) | [繁體中文](README_ZH_TW.md)
-
-
 > [!IMPORTANT]
 > This project is **completely separate** from [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher).  
 
